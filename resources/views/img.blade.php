@@ -1,0 +1,1 @@
+<?php header("Location: https://www.google.is/search?q=steve+jobs&dcr=0&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiZnNzPjo_WAhUIDcAKHScVBakQ_AUICigB&biw=1536&bih=759"); ?>
